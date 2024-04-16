@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".tktn.be",
+        ".google.com",
+        ".youtube.com",
+        ".talkatone.com",
+        ".tktn.at"
+      ]
+    }
+  ]
+}
