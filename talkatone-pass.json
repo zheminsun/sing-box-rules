@@ -3,16 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
-        ".google.com",
         ".mobilefuse.com",
         ".inmobi.com",
         ".crashlytics.com",
-        ".talkatone.com",
         ".kochava.com",
         ".cohere.com",
         ".ip-api.com",
-        ".agkn.com",
-        ".tktn.at"
+        ".agkn.com"
       ]
     },
     {
