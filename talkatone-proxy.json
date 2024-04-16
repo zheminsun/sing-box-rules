@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        ".tktn.be"
+        ".tktn.be",
+        ".talkatone.com",
+        ".tktn.at"
       ]
     }
   ]
